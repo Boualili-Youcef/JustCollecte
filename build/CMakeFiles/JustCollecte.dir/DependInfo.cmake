@@ -9,13 +9,13 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/youcef/Documents/Projects/EE/main.cpp" "CMakeFiles/JustCollecte.dir/main.cpp.o" "gcc" "CMakeFiles/JustCollecte.dir/main.cpp.o.d"
-  "/home/youcef/Documents/Projects/EE/src/Citizen.cpp" "CMakeFiles/JustCollecte.dir/src/Citizen.cpp.o" "gcc" "CMakeFiles/JustCollecte.dir/src/Citizen.cpp.o.d"
-  "/home/youcef/Documents/Projects/EE/src/Olk.cpp" "CMakeFiles/JustCollecte.dir/src/Olk.cpp.o" "gcc" "CMakeFiles/JustCollecte.dir/src/Olk.cpp.o.d"
-  "/home/youcef/Documents/Projects/EE/src/Ores.cpp" "CMakeFiles/JustCollecte.dir/src/Ores.cpp.o" "gcc" "CMakeFiles/JustCollecte.dir/src/Ores.cpp.o.d"
-  "/home/youcef/Documents/Projects/EE/src/Pine.cpp" "CMakeFiles/JustCollecte.dir/src/Pine.cpp.o" "gcc" "CMakeFiles/JustCollecte.dir/src/Pine.cpp.o.d"
-  "/home/youcef/Documents/Projects/EE/src/Ressource.cpp" "CMakeFiles/JustCollecte.dir/src/Ressource.cpp.o" "gcc" "CMakeFiles/JustCollecte.dir/src/Ressource.cpp.o.d"
-  "/home/youcef/Documents/Projects/EE/src/Tree.cpp" "CMakeFiles/JustCollecte.dir/src/Tree.cpp.o" "gcc" "CMakeFiles/JustCollecte.dir/src/Tree.cpp.o.d"
-  "/home/youcef/Documents/Projects/EE/src/Unit.cpp" "CMakeFiles/JustCollecte.dir/src/Unit.cpp.o" "gcc" "CMakeFiles/JustCollecte.dir/src/Unit.cpp.o.d"
+  "/home/youcef/Documents/Projects/EE/src/npc/Citizen.cpp" "CMakeFiles/JustCollecte.dir/src/npc/Citizen.cpp.o" "gcc" "CMakeFiles/JustCollecte.dir/src/npc/Citizen.cpp.o.d"
+  "/home/youcef/Documents/Projects/EE/src/npc/Unit.cpp" "CMakeFiles/JustCollecte.dir/src/npc/Unit.cpp.o" "gcc" "CMakeFiles/JustCollecte.dir/src/npc/Unit.cpp.o.d"
+  "/home/youcef/Documents/Projects/EE/src/ressources/Ressource.cpp" "CMakeFiles/JustCollecte.dir/src/ressources/Ressource.cpp.o" "gcc" "CMakeFiles/JustCollecte.dir/src/ressources/Ressource.cpp.o.d"
+  "/home/youcef/Documents/Projects/EE/src/ressources/Trees/Olk.cpp" "CMakeFiles/JustCollecte.dir/src/ressources/Trees/Olk.cpp.o" "gcc" "CMakeFiles/JustCollecte.dir/src/ressources/Trees/Olk.cpp.o.d"
+  "/home/youcef/Documents/Projects/EE/src/ressources/Trees/Pine.cpp" "CMakeFiles/JustCollecte.dir/src/ressources/Trees/Pine.cpp.o" "gcc" "CMakeFiles/JustCollecte.dir/src/ressources/Trees/Pine.cpp.o.d"
+  "/home/youcef/Documents/Projects/EE/src/ressources/Trees/Tree.cpp" "CMakeFiles/JustCollecte.dir/src/ressources/Trees/Tree.cpp.o" "gcc" "CMakeFiles/JustCollecte.dir/src/ressources/Trees/Tree.cpp.o.d"
+  "/home/youcef/Documents/Projects/EE/src/ressources/ores/Ores.cpp" "CMakeFiles/JustCollecte.dir/src/ressources/ores/Ores.cpp.o" "gcc" "CMakeFiles/JustCollecte.dir/src/ressources/ores/Ores.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

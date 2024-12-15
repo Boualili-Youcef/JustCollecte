@@ -153,173 +153,173 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-src/Citizen.o: src/Citizen.cpp.o
-.PHONY : src/Citizen.o
+src/npc/Citizen.o: src/npc/Citizen.cpp.o
+.PHONY : src/npc/Citizen.o
 
 # target to build an object file
-src/Citizen.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Citizen.cpp.o
-.PHONY : src/Citizen.cpp.o
+src/npc/Citizen.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/npc/Citizen.cpp.o
+.PHONY : src/npc/Citizen.cpp.o
 
-src/Citizen.i: src/Citizen.cpp.i
-.PHONY : src/Citizen.i
+src/npc/Citizen.i: src/npc/Citizen.cpp.i
+.PHONY : src/npc/Citizen.i
 
 # target to preprocess a source file
-src/Citizen.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Citizen.cpp.i
-.PHONY : src/Citizen.cpp.i
+src/npc/Citizen.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/npc/Citizen.cpp.i
+.PHONY : src/npc/Citizen.cpp.i
 
-src/Citizen.s: src/Citizen.cpp.s
-.PHONY : src/Citizen.s
+src/npc/Citizen.s: src/npc/Citizen.cpp.s
+.PHONY : src/npc/Citizen.s
 
 # target to generate assembly for a file
-src/Citizen.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Citizen.cpp.s
-.PHONY : src/Citizen.cpp.s
+src/npc/Citizen.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/npc/Citizen.cpp.s
+.PHONY : src/npc/Citizen.cpp.s
 
-src/Olk.o: src/Olk.cpp.o
-.PHONY : src/Olk.o
+src/npc/Unit.o: src/npc/Unit.cpp.o
+.PHONY : src/npc/Unit.o
 
 # target to build an object file
-src/Olk.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Olk.cpp.o
-.PHONY : src/Olk.cpp.o
+src/npc/Unit.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/npc/Unit.cpp.o
+.PHONY : src/npc/Unit.cpp.o
 
-src/Olk.i: src/Olk.cpp.i
-.PHONY : src/Olk.i
+src/npc/Unit.i: src/npc/Unit.cpp.i
+.PHONY : src/npc/Unit.i
 
 # target to preprocess a source file
-src/Olk.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Olk.cpp.i
-.PHONY : src/Olk.cpp.i
+src/npc/Unit.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/npc/Unit.cpp.i
+.PHONY : src/npc/Unit.cpp.i
 
-src/Olk.s: src/Olk.cpp.s
-.PHONY : src/Olk.s
+src/npc/Unit.s: src/npc/Unit.cpp.s
+.PHONY : src/npc/Unit.s
 
 # target to generate assembly for a file
-src/Olk.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Olk.cpp.s
-.PHONY : src/Olk.cpp.s
+src/npc/Unit.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/npc/Unit.cpp.s
+.PHONY : src/npc/Unit.cpp.s
 
-src/Ores.o: src/Ores.cpp.o
-.PHONY : src/Ores.o
+src/ressources/Ressource.o: src/ressources/Ressource.cpp.o
+.PHONY : src/ressources/Ressource.o
 
 # target to build an object file
-src/Ores.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Ores.cpp.o
-.PHONY : src/Ores.cpp.o
+src/ressources/Ressource.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/ressources/Ressource.cpp.o
+.PHONY : src/ressources/Ressource.cpp.o
 
-src/Ores.i: src/Ores.cpp.i
-.PHONY : src/Ores.i
+src/ressources/Ressource.i: src/ressources/Ressource.cpp.i
+.PHONY : src/ressources/Ressource.i
 
 # target to preprocess a source file
-src/Ores.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Ores.cpp.i
-.PHONY : src/Ores.cpp.i
+src/ressources/Ressource.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/ressources/Ressource.cpp.i
+.PHONY : src/ressources/Ressource.cpp.i
 
-src/Ores.s: src/Ores.cpp.s
-.PHONY : src/Ores.s
+src/ressources/Ressource.s: src/ressources/Ressource.cpp.s
+.PHONY : src/ressources/Ressource.s
 
 # target to generate assembly for a file
-src/Ores.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Ores.cpp.s
-.PHONY : src/Ores.cpp.s
+src/ressources/Ressource.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/ressources/Ressource.cpp.s
+.PHONY : src/ressources/Ressource.cpp.s
 
-src/Pine.o: src/Pine.cpp.o
-.PHONY : src/Pine.o
+src/ressources/Trees/Olk.o: src/ressources/Trees/Olk.cpp.o
+.PHONY : src/ressources/Trees/Olk.o
 
 # target to build an object file
-src/Pine.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Pine.cpp.o
-.PHONY : src/Pine.cpp.o
+src/ressources/Trees/Olk.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/ressources/Trees/Olk.cpp.o
+.PHONY : src/ressources/Trees/Olk.cpp.o
 
-src/Pine.i: src/Pine.cpp.i
-.PHONY : src/Pine.i
+src/ressources/Trees/Olk.i: src/ressources/Trees/Olk.cpp.i
+.PHONY : src/ressources/Trees/Olk.i
 
 # target to preprocess a source file
-src/Pine.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Pine.cpp.i
-.PHONY : src/Pine.cpp.i
+src/ressources/Trees/Olk.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/ressources/Trees/Olk.cpp.i
+.PHONY : src/ressources/Trees/Olk.cpp.i
 
-src/Pine.s: src/Pine.cpp.s
-.PHONY : src/Pine.s
+src/ressources/Trees/Olk.s: src/ressources/Trees/Olk.cpp.s
+.PHONY : src/ressources/Trees/Olk.s
 
 # target to generate assembly for a file
-src/Pine.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Pine.cpp.s
-.PHONY : src/Pine.cpp.s
+src/ressources/Trees/Olk.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/ressources/Trees/Olk.cpp.s
+.PHONY : src/ressources/Trees/Olk.cpp.s
 
-src/Ressource.o: src/Ressource.cpp.o
-.PHONY : src/Ressource.o
+src/ressources/Trees/Pine.o: src/ressources/Trees/Pine.cpp.o
+.PHONY : src/ressources/Trees/Pine.o
 
 # target to build an object file
-src/Ressource.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Ressource.cpp.o
-.PHONY : src/Ressource.cpp.o
+src/ressources/Trees/Pine.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/ressources/Trees/Pine.cpp.o
+.PHONY : src/ressources/Trees/Pine.cpp.o
 
-src/Ressource.i: src/Ressource.cpp.i
-.PHONY : src/Ressource.i
+src/ressources/Trees/Pine.i: src/ressources/Trees/Pine.cpp.i
+.PHONY : src/ressources/Trees/Pine.i
 
 # target to preprocess a source file
-src/Ressource.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Ressource.cpp.i
-.PHONY : src/Ressource.cpp.i
+src/ressources/Trees/Pine.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/ressources/Trees/Pine.cpp.i
+.PHONY : src/ressources/Trees/Pine.cpp.i
 
-src/Ressource.s: src/Ressource.cpp.s
-.PHONY : src/Ressource.s
+src/ressources/Trees/Pine.s: src/ressources/Trees/Pine.cpp.s
+.PHONY : src/ressources/Trees/Pine.s
 
 # target to generate assembly for a file
-src/Ressource.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Ressource.cpp.s
-.PHONY : src/Ressource.cpp.s
+src/ressources/Trees/Pine.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/ressources/Trees/Pine.cpp.s
+.PHONY : src/ressources/Trees/Pine.cpp.s
 
-src/Tree.o: src/Tree.cpp.o
-.PHONY : src/Tree.o
+src/ressources/Trees/Tree.o: src/ressources/Trees/Tree.cpp.o
+.PHONY : src/ressources/Trees/Tree.o
 
 # target to build an object file
-src/Tree.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Tree.cpp.o
-.PHONY : src/Tree.cpp.o
+src/ressources/Trees/Tree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/ressources/Trees/Tree.cpp.o
+.PHONY : src/ressources/Trees/Tree.cpp.o
 
-src/Tree.i: src/Tree.cpp.i
-.PHONY : src/Tree.i
+src/ressources/Trees/Tree.i: src/ressources/Trees/Tree.cpp.i
+.PHONY : src/ressources/Trees/Tree.i
 
 # target to preprocess a source file
-src/Tree.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Tree.cpp.i
-.PHONY : src/Tree.cpp.i
+src/ressources/Trees/Tree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/ressources/Trees/Tree.cpp.i
+.PHONY : src/ressources/Trees/Tree.cpp.i
 
-src/Tree.s: src/Tree.cpp.s
-.PHONY : src/Tree.s
+src/ressources/Trees/Tree.s: src/ressources/Trees/Tree.cpp.s
+.PHONY : src/ressources/Trees/Tree.s
 
 # target to generate assembly for a file
-src/Tree.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Tree.cpp.s
-.PHONY : src/Tree.cpp.s
+src/ressources/Trees/Tree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/ressources/Trees/Tree.cpp.s
+.PHONY : src/ressources/Trees/Tree.cpp.s
 
-src/Unit.o: src/Unit.cpp.o
-.PHONY : src/Unit.o
+src/ressources/ores/Ores.o: src/ressources/ores/Ores.cpp.o
+.PHONY : src/ressources/ores/Ores.o
 
 # target to build an object file
-src/Unit.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Unit.cpp.o
-.PHONY : src/Unit.cpp.o
+src/ressources/ores/Ores.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/ressources/ores/Ores.cpp.o
+.PHONY : src/ressources/ores/Ores.cpp.o
 
-src/Unit.i: src/Unit.cpp.i
-.PHONY : src/Unit.i
+src/ressources/ores/Ores.i: src/ressources/ores/Ores.cpp.i
+.PHONY : src/ressources/ores/Ores.i
 
 # target to preprocess a source file
-src/Unit.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Unit.cpp.i
-.PHONY : src/Unit.cpp.i
+src/ressources/ores/Ores.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/ressources/ores/Ores.cpp.i
+.PHONY : src/ressources/ores/Ores.cpp.i
 
-src/Unit.s: src/Unit.cpp.s
-.PHONY : src/Unit.s
+src/ressources/ores/Ores.s: src/ressources/ores/Ores.cpp.s
+.PHONY : src/ressources/ores/Ores.s
 
 # target to generate assembly for a file
-src/Unit.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/Unit.cpp.s
-.PHONY : src/Unit.cpp.s
+src/ressources/ores/Ores.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/JustCollecte.dir/build.make CMakeFiles/JustCollecte.dir/src/ressources/ores/Ores.cpp.s
+.PHONY : src/ressources/ores/Ores.cpp.s
 
 # Help Target
 help:
@@ -333,27 +333,27 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... src/Citizen.o"
-	@echo "... src/Citizen.i"
-	@echo "... src/Citizen.s"
-	@echo "... src/Olk.o"
-	@echo "... src/Olk.i"
-	@echo "... src/Olk.s"
-	@echo "... src/Ores.o"
-	@echo "... src/Ores.i"
-	@echo "... src/Ores.s"
-	@echo "... src/Pine.o"
-	@echo "... src/Pine.i"
-	@echo "... src/Pine.s"
-	@echo "... src/Ressource.o"
-	@echo "... src/Ressource.i"
-	@echo "... src/Ressource.s"
-	@echo "... src/Tree.o"
-	@echo "... src/Tree.i"
-	@echo "... src/Tree.s"
-	@echo "... src/Unit.o"
-	@echo "... src/Unit.i"
-	@echo "... src/Unit.s"
+	@echo "... src/npc/Citizen.o"
+	@echo "... src/npc/Citizen.i"
+	@echo "... src/npc/Citizen.s"
+	@echo "... src/npc/Unit.o"
+	@echo "... src/npc/Unit.i"
+	@echo "... src/npc/Unit.s"
+	@echo "... src/ressources/Ressource.o"
+	@echo "... src/ressources/Ressource.i"
+	@echo "... src/ressources/Ressource.s"
+	@echo "... src/ressources/Trees/Olk.o"
+	@echo "... src/ressources/Trees/Olk.i"
+	@echo "... src/ressources/Trees/Olk.s"
+	@echo "... src/ressources/Trees/Pine.o"
+	@echo "... src/ressources/Trees/Pine.i"
+	@echo "... src/ressources/Trees/Pine.s"
+	@echo "... src/ressources/Trees/Tree.o"
+	@echo "... src/ressources/Trees/Tree.i"
+	@echo "... src/ressources/Trees/Tree.s"
+	@echo "... src/ressources/ores/Ores.o"
+	@echo "... src/ressources/ores/Ores.i"
+	@echo "... src/ressources/ores/Ores.s"
 .PHONY : help
 
 

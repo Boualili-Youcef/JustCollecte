@@ -14,13 +14,13 @@ include_directories(${CMAKE_SOURCE_DIR}/include)
 # Ajouter les répertoires contenant les fichiers sources (.cpp)
 # (tu peux aussi organiser tes sources en sous-dossiers si nécessaire)
 set(SOURCE_FILES 
-    src/Ressource.cpp
-    src/Tree.cpp
-    src/Citizen.cpp
-    src/Olk.cpp
-    src/Ores.cpp
-    src/Pine.cpp
-    src/Unit.cpp
+    src/ressources/Ressource.cpp
+    src/ressources/Trees/Tree.cpp
+    src/npc/Citizen.cpp
+    src/ressources/Trees/Olk.cpp
+    src/ressources/ores/Ores.cpp
+    src/ressources/Trees/Pine.cpp
+    src/npc/Unit.cpp
 )
 
 # Ajouter l'exécutable du projet (fichier source principal)

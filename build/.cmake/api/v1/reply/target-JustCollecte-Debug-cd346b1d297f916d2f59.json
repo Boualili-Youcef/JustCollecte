@@ -147,43 +147,43 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/Ressource.cpp",
+			"path" : "src/ressources/Ressource.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/Tree.cpp",
+			"path" : "src/ressources/Trees/Tree.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/Citizen.cpp",
+			"path" : "src/npc/Citizen.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/Olk.cpp",
+			"path" : "src/ressources/Trees/Olk.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/Ores.cpp",
+			"path" : "src/ressources/ores/Ores.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/Pine.cpp",
+			"path" : "src/ressources/Trees/Pine.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/Unit.cpp",
+			"path" : "src/npc/Unit.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

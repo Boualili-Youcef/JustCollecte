@@ -83,126 +83,126 @@ CMakeFiles/JustCollecte.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/JustCollecte.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/youcef/Documents/Projects/EE/main.cpp -o CMakeFiles/JustCollecte.dir/main.cpp.s
 
-CMakeFiles/JustCollecte.dir/src/Ressource.cpp.o: CMakeFiles/JustCollecte.dir/flags.make
-CMakeFiles/JustCollecte.dir/src/Ressource.cpp.o: /home/youcef/Documents/Projects/EE/src/Ressource.cpp
-CMakeFiles/JustCollecte.dir/src/Ressource.cpp.o: CMakeFiles/JustCollecte.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/youcef/Documents/Projects/EE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/JustCollecte.dir/src/Ressource.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/JustCollecte.dir/src/Ressource.cpp.o -MF CMakeFiles/JustCollecte.dir/src/Ressource.cpp.o.d -o CMakeFiles/JustCollecte.dir/src/Ressource.cpp.o -c /home/youcef/Documents/Projects/EE/src/Ressource.cpp
+CMakeFiles/JustCollecte.dir/src/ressources/Ressource.cpp.o: CMakeFiles/JustCollecte.dir/flags.make
+CMakeFiles/JustCollecte.dir/src/ressources/Ressource.cpp.o: /home/youcef/Documents/Projects/EE/src/ressources/Ressource.cpp
+CMakeFiles/JustCollecte.dir/src/ressources/Ressource.cpp.o: CMakeFiles/JustCollecte.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/youcef/Documents/Projects/EE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/JustCollecte.dir/src/ressources/Ressource.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/JustCollecte.dir/src/ressources/Ressource.cpp.o -MF CMakeFiles/JustCollecte.dir/src/ressources/Ressource.cpp.o.d -o CMakeFiles/JustCollecte.dir/src/ressources/Ressource.cpp.o -c /home/youcef/Documents/Projects/EE/src/ressources/Ressource.cpp
 
-CMakeFiles/JustCollecte.dir/src/Ressource.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/JustCollecte.dir/src/Ressource.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/youcef/Documents/Projects/EE/src/Ressource.cpp > CMakeFiles/JustCollecte.dir/src/Ressource.cpp.i
+CMakeFiles/JustCollecte.dir/src/ressources/Ressource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/JustCollecte.dir/src/ressources/Ressource.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/youcef/Documents/Projects/EE/src/ressources/Ressource.cpp > CMakeFiles/JustCollecte.dir/src/ressources/Ressource.cpp.i
 
-CMakeFiles/JustCollecte.dir/src/Ressource.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/JustCollecte.dir/src/Ressource.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/youcef/Documents/Projects/EE/src/Ressource.cpp -o CMakeFiles/JustCollecte.dir/src/Ressource.cpp.s
+CMakeFiles/JustCollecte.dir/src/ressources/Ressource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/JustCollecte.dir/src/ressources/Ressource.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/youcef/Documents/Projects/EE/src/ressources/Ressource.cpp -o CMakeFiles/JustCollecte.dir/src/ressources/Ressource.cpp.s
 
-CMakeFiles/JustCollecte.dir/src/Tree.cpp.o: CMakeFiles/JustCollecte.dir/flags.make
-CMakeFiles/JustCollecte.dir/src/Tree.cpp.o: /home/youcef/Documents/Projects/EE/src/Tree.cpp
-CMakeFiles/JustCollecte.dir/src/Tree.cpp.o: CMakeFiles/JustCollecte.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/youcef/Documents/Projects/EE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/JustCollecte.dir/src/Tree.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/JustCollecte.dir/src/Tree.cpp.o -MF CMakeFiles/JustCollecte.dir/src/Tree.cpp.o.d -o CMakeFiles/JustCollecte.dir/src/Tree.cpp.o -c /home/youcef/Documents/Projects/EE/src/Tree.cpp
+CMakeFiles/JustCollecte.dir/src/ressources/Trees/Tree.cpp.o: CMakeFiles/JustCollecte.dir/flags.make
+CMakeFiles/JustCollecte.dir/src/ressources/Trees/Tree.cpp.o: /home/youcef/Documents/Projects/EE/src/ressources/Trees/Tree.cpp
+CMakeFiles/JustCollecte.dir/src/ressources/Trees/Tree.cpp.o: CMakeFiles/JustCollecte.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/youcef/Documents/Projects/EE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/JustCollecte.dir/src/ressources/Trees/Tree.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/JustCollecte.dir/src/ressources/Trees/Tree.cpp.o -MF CMakeFiles/JustCollecte.dir/src/ressources/Trees/Tree.cpp.o.d -o CMakeFiles/JustCollecte.dir/src/ressources/Trees/Tree.cpp.o -c /home/youcef/Documents/Projects/EE/src/ressources/Trees/Tree.cpp
 
-CMakeFiles/JustCollecte.dir/src/Tree.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/JustCollecte.dir/src/Tree.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/youcef/Documents/Projects/EE/src/Tree.cpp > CMakeFiles/JustCollecte.dir/src/Tree.cpp.i
+CMakeFiles/JustCollecte.dir/src/ressources/Trees/Tree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/JustCollecte.dir/src/ressources/Trees/Tree.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/youcef/Documents/Projects/EE/src/ressources/Trees/Tree.cpp > CMakeFiles/JustCollecte.dir/src/ressources/Trees/Tree.cpp.i
 
-CMakeFiles/JustCollecte.dir/src/Tree.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/JustCollecte.dir/src/Tree.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/youcef/Documents/Projects/EE/src/Tree.cpp -o CMakeFiles/JustCollecte.dir/src/Tree.cpp.s
+CMakeFiles/JustCollecte.dir/src/ressources/Trees/Tree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/JustCollecte.dir/src/ressources/Trees/Tree.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/youcef/Documents/Projects/EE/src/ressources/Trees/Tree.cpp -o CMakeFiles/JustCollecte.dir/src/ressources/Trees/Tree.cpp.s
 
-CMakeFiles/JustCollecte.dir/src/Citizen.cpp.o: CMakeFiles/JustCollecte.dir/flags.make
-CMakeFiles/JustCollecte.dir/src/Citizen.cpp.o: /home/youcef/Documents/Projects/EE/src/Citizen.cpp
-CMakeFiles/JustCollecte.dir/src/Citizen.cpp.o: CMakeFiles/JustCollecte.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/youcef/Documents/Projects/EE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/JustCollecte.dir/src/Citizen.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/JustCollecte.dir/src/Citizen.cpp.o -MF CMakeFiles/JustCollecte.dir/src/Citizen.cpp.o.d -o CMakeFiles/JustCollecte.dir/src/Citizen.cpp.o -c /home/youcef/Documents/Projects/EE/src/Citizen.cpp
+CMakeFiles/JustCollecte.dir/src/npc/Citizen.cpp.o: CMakeFiles/JustCollecte.dir/flags.make
+CMakeFiles/JustCollecte.dir/src/npc/Citizen.cpp.o: /home/youcef/Documents/Projects/EE/src/npc/Citizen.cpp
+CMakeFiles/JustCollecte.dir/src/npc/Citizen.cpp.o: CMakeFiles/JustCollecte.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/youcef/Documents/Projects/EE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/JustCollecte.dir/src/npc/Citizen.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/JustCollecte.dir/src/npc/Citizen.cpp.o -MF CMakeFiles/JustCollecte.dir/src/npc/Citizen.cpp.o.d -o CMakeFiles/JustCollecte.dir/src/npc/Citizen.cpp.o -c /home/youcef/Documents/Projects/EE/src/npc/Citizen.cpp
 
-CMakeFiles/JustCollecte.dir/src/Citizen.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/JustCollecte.dir/src/Citizen.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/youcef/Documents/Projects/EE/src/Citizen.cpp > CMakeFiles/JustCollecte.dir/src/Citizen.cpp.i
+CMakeFiles/JustCollecte.dir/src/npc/Citizen.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/JustCollecte.dir/src/npc/Citizen.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/youcef/Documents/Projects/EE/src/npc/Citizen.cpp > CMakeFiles/JustCollecte.dir/src/npc/Citizen.cpp.i
 
-CMakeFiles/JustCollecte.dir/src/Citizen.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/JustCollecte.dir/src/Citizen.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/youcef/Documents/Projects/EE/src/Citizen.cpp -o CMakeFiles/JustCollecte.dir/src/Citizen.cpp.s
+CMakeFiles/JustCollecte.dir/src/npc/Citizen.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/JustCollecte.dir/src/npc/Citizen.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/youcef/Documents/Projects/EE/src/npc/Citizen.cpp -o CMakeFiles/JustCollecte.dir/src/npc/Citizen.cpp.s
 
-CMakeFiles/JustCollecte.dir/src/Olk.cpp.o: CMakeFiles/JustCollecte.dir/flags.make
-CMakeFiles/JustCollecte.dir/src/Olk.cpp.o: /home/youcef/Documents/Projects/EE/src/Olk.cpp
-CMakeFiles/JustCollecte.dir/src/Olk.cpp.o: CMakeFiles/JustCollecte.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/youcef/Documents/Projects/EE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/JustCollecte.dir/src/Olk.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/JustCollecte.dir/src/Olk.cpp.o -MF CMakeFiles/JustCollecte.dir/src/Olk.cpp.o.d -o CMakeFiles/JustCollecte.dir/src/Olk.cpp.o -c /home/youcef/Documents/Projects/EE/src/Olk.cpp
+CMakeFiles/JustCollecte.dir/src/ressources/Trees/Olk.cpp.o: CMakeFiles/JustCollecte.dir/flags.make
+CMakeFiles/JustCollecte.dir/src/ressources/Trees/Olk.cpp.o: /home/youcef/Documents/Projects/EE/src/ressources/Trees/Olk.cpp
+CMakeFiles/JustCollecte.dir/src/ressources/Trees/Olk.cpp.o: CMakeFiles/JustCollecte.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/youcef/Documents/Projects/EE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/JustCollecte.dir/src/ressources/Trees/Olk.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/JustCollecte.dir/src/ressources/Trees/Olk.cpp.o -MF CMakeFiles/JustCollecte.dir/src/ressources/Trees/Olk.cpp.o.d -o CMakeFiles/JustCollecte.dir/src/ressources/Trees/Olk.cpp.o -c /home/youcef/Documents/Projects/EE/src/ressources/Trees/Olk.cpp
 
-CMakeFiles/JustCollecte.dir/src/Olk.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/JustCollecte.dir/src/Olk.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/youcef/Documents/Projects/EE/src/Olk.cpp > CMakeFiles/JustCollecte.dir/src/Olk.cpp.i
+CMakeFiles/JustCollecte.dir/src/ressources/Trees/Olk.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/JustCollecte.dir/src/ressources/Trees/Olk.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/youcef/Documents/Projects/EE/src/ressources/Trees/Olk.cpp > CMakeFiles/JustCollecte.dir/src/ressources/Trees/Olk.cpp.i
 
-CMakeFiles/JustCollecte.dir/src/Olk.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/JustCollecte.dir/src/Olk.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/youcef/Documents/Projects/EE/src/Olk.cpp -o CMakeFiles/JustCollecte.dir/src/Olk.cpp.s
+CMakeFiles/JustCollecte.dir/src/ressources/Trees/Olk.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/JustCollecte.dir/src/ressources/Trees/Olk.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/youcef/Documents/Projects/EE/src/ressources/Trees/Olk.cpp -o CMakeFiles/JustCollecte.dir/src/ressources/Trees/Olk.cpp.s
 
-CMakeFiles/JustCollecte.dir/src/Ores.cpp.o: CMakeFiles/JustCollecte.dir/flags.make
-CMakeFiles/JustCollecte.dir/src/Ores.cpp.o: /home/youcef/Documents/Projects/EE/src/Ores.cpp
-CMakeFiles/JustCollecte.dir/src/Ores.cpp.o: CMakeFiles/JustCollecte.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/youcef/Documents/Projects/EE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/JustCollecte.dir/src/Ores.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/JustCollecte.dir/src/Ores.cpp.o -MF CMakeFiles/JustCollecte.dir/src/Ores.cpp.o.d -o CMakeFiles/JustCollecte.dir/src/Ores.cpp.o -c /home/youcef/Documents/Projects/EE/src/Ores.cpp
+CMakeFiles/JustCollecte.dir/src/ressources/ores/Ores.cpp.o: CMakeFiles/JustCollecte.dir/flags.make
+CMakeFiles/JustCollecte.dir/src/ressources/ores/Ores.cpp.o: /home/youcef/Documents/Projects/EE/src/ressources/ores/Ores.cpp
+CMakeFiles/JustCollecte.dir/src/ressources/ores/Ores.cpp.o: CMakeFiles/JustCollecte.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/youcef/Documents/Projects/EE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/JustCollecte.dir/src/ressources/ores/Ores.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/JustCollecte.dir/src/ressources/ores/Ores.cpp.o -MF CMakeFiles/JustCollecte.dir/src/ressources/ores/Ores.cpp.o.d -o CMakeFiles/JustCollecte.dir/src/ressources/ores/Ores.cpp.o -c /home/youcef/Documents/Projects/EE/src/ressources/ores/Ores.cpp
 
-CMakeFiles/JustCollecte.dir/src/Ores.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/JustCollecte.dir/src/Ores.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/youcef/Documents/Projects/EE/src/Ores.cpp > CMakeFiles/JustCollecte.dir/src/Ores.cpp.i
+CMakeFiles/JustCollecte.dir/src/ressources/ores/Ores.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/JustCollecte.dir/src/ressources/ores/Ores.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/youcef/Documents/Projects/EE/src/ressources/ores/Ores.cpp > CMakeFiles/JustCollecte.dir/src/ressources/ores/Ores.cpp.i
 
-CMakeFiles/JustCollecte.dir/src/Ores.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/JustCollecte.dir/src/Ores.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/youcef/Documents/Projects/EE/src/Ores.cpp -o CMakeFiles/JustCollecte.dir/src/Ores.cpp.s
+CMakeFiles/JustCollecte.dir/src/ressources/ores/Ores.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/JustCollecte.dir/src/ressources/ores/Ores.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/youcef/Documents/Projects/EE/src/ressources/ores/Ores.cpp -o CMakeFiles/JustCollecte.dir/src/ressources/ores/Ores.cpp.s
 
-CMakeFiles/JustCollecte.dir/src/Pine.cpp.o: CMakeFiles/JustCollecte.dir/flags.make
-CMakeFiles/JustCollecte.dir/src/Pine.cpp.o: /home/youcef/Documents/Projects/EE/src/Pine.cpp
-CMakeFiles/JustCollecte.dir/src/Pine.cpp.o: CMakeFiles/JustCollecte.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/youcef/Documents/Projects/EE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/JustCollecte.dir/src/Pine.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/JustCollecte.dir/src/Pine.cpp.o -MF CMakeFiles/JustCollecte.dir/src/Pine.cpp.o.d -o CMakeFiles/JustCollecte.dir/src/Pine.cpp.o -c /home/youcef/Documents/Projects/EE/src/Pine.cpp
+CMakeFiles/JustCollecte.dir/src/ressources/Trees/Pine.cpp.o: CMakeFiles/JustCollecte.dir/flags.make
+CMakeFiles/JustCollecte.dir/src/ressources/Trees/Pine.cpp.o: /home/youcef/Documents/Projects/EE/src/ressources/Trees/Pine.cpp
+CMakeFiles/JustCollecte.dir/src/ressources/Trees/Pine.cpp.o: CMakeFiles/JustCollecte.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/youcef/Documents/Projects/EE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/JustCollecte.dir/src/ressources/Trees/Pine.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/JustCollecte.dir/src/ressources/Trees/Pine.cpp.o -MF CMakeFiles/JustCollecte.dir/src/ressources/Trees/Pine.cpp.o.d -o CMakeFiles/JustCollecte.dir/src/ressources/Trees/Pine.cpp.o -c /home/youcef/Documents/Projects/EE/src/ressources/Trees/Pine.cpp
 
-CMakeFiles/JustCollecte.dir/src/Pine.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/JustCollecte.dir/src/Pine.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/youcef/Documents/Projects/EE/src/Pine.cpp > CMakeFiles/JustCollecte.dir/src/Pine.cpp.i
+CMakeFiles/JustCollecte.dir/src/ressources/Trees/Pine.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/JustCollecte.dir/src/ressources/Trees/Pine.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/youcef/Documents/Projects/EE/src/ressources/Trees/Pine.cpp > CMakeFiles/JustCollecte.dir/src/ressources/Trees/Pine.cpp.i
 
-CMakeFiles/JustCollecte.dir/src/Pine.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/JustCollecte.dir/src/Pine.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/youcef/Documents/Projects/EE/src/Pine.cpp -o CMakeFiles/JustCollecte.dir/src/Pine.cpp.s
+CMakeFiles/JustCollecte.dir/src/ressources/Trees/Pine.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/JustCollecte.dir/src/ressources/Trees/Pine.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/youcef/Documents/Projects/EE/src/ressources/Trees/Pine.cpp -o CMakeFiles/JustCollecte.dir/src/ressources/Trees/Pine.cpp.s
 
-CMakeFiles/JustCollecte.dir/src/Unit.cpp.o: CMakeFiles/JustCollecte.dir/flags.make
-CMakeFiles/JustCollecte.dir/src/Unit.cpp.o: /home/youcef/Documents/Projects/EE/src/Unit.cpp
-CMakeFiles/JustCollecte.dir/src/Unit.cpp.o: CMakeFiles/JustCollecte.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/youcef/Documents/Projects/EE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/JustCollecte.dir/src/Unit.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/JustCollecte.dir/src/Unit.cpp.o -MF CMakeFiles/JustCollecte.dir/src/Unit.cpp.o.d -o CMakeFiles/JustCollecte.dir/src/Unit.cpp.o -c /home/youcef/Documents/Projects/EE/src/Unit.cpp
+CMakeFiles/JustCollecte.dir/src/npc/Unit.cpp.o: CMakeFiles/JustCollecte.dir/flags.make
+CMakeFiles/JustCollecte.dir/src/npc/Unit.cpp.o: /home/youcef/Documents/Projects/EE/src/npc/Unit.cpp
+CMakeFiles/JustCollecte.dir/src/npc/Unit.cpp.o: CMakeFiles/JustCollecte.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/youcef/Documents/Projects/EE/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/JustCollecte.dir/src/npc/Unit.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/JustCollecte.dir/src/npc/Unit.cpp.o -MF CMakeFiles/JustCollecte.dir/src/npc/Unit.cpp.o.d -o CMakeFiles/JustCollecte.dir/src/npc/Unit.cpp.o -c /home/youcef/Documents/Projects/EE/src/npc/Unit.cpp
 
-CMakeFiles/JustCollecte.dir/src/Unit.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/JustCollecte.dir/src/Unit.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/youcef/Documents/Projects/EE/src/Unit.cpp > CMakeFiles/JustCollecte.dir/src/Unit.cpp.i
+CMakeFiles/JustCollecte.dir/src/npc/Unit.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/JustCollecte.dir/src/npc/Unit.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/youcef/Documents/Projects/EE/src/npc/Unit.cpp > CMakeFiles/JustCollecte.dir/src/npc/Unit.cpp.i
 
-CMakeFiles/JustCollecte.dir/src/Unit.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/JustCollecte.dir/src/Unit.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/youcef/Documents/Projects/EE/src/Unit.cpp -o CMakeFiles/JustCollecte.dir/src/Unit.cpp.s
+CMakeFiles/JustCollecte.dir/src/npc/Unit.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/JustCollecte.dir/src/npc/Unit.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/youcef/Documents/Projects/EE/src/npc/Unit.cpp -o CMakeFiles/JustCollecte.dir/src/npc/Unit.cpp.s
 
 # Object files for target JustCollecte
 JustCollecte_OBJECTS = \
 "CMakeFiles/JustCollecte.dir/main.cpp.o" \
-"CMakeFiles/JustCollecte.dir/src/Ressource.cpp.o" \
-"CMakeFiles/JustCollecte.dir/src/Tree.cpp.o" \
-"CMakeFiles/JustCollecte.dir/src/Citizen.cpp.o" \
-"CMakeFiles/JustCollecte.dir/src/Olk.cpp.o" \
-"CMakeFiles/JustCollecte.dir/src/Ores.cpp.o" \
-"CMakeFiles/JustCollecte.dir/src/Pine.cpp.o" \
-"CMakeFiles/JustCollecte.dir/src/Unit.cpp.o"
+"CMakeFiles/JustCollecte.dir/src/ressources/Ressource.cpp.o" \
+"CMakeFiles/JustCollecte.dir/src/ressources/Trees/Tree.cpp.o" \
+"CMakeFiles/JustCollecte.dir/src/npc/Citizen.cpp.o" \
+"CMakeFiles/JustCollecte.dir/src/ressources/Trees/Olk.cpp.o" \
+"CMakeFiles/JustCollecte.dir/src/ressources/ores/Ores.cpp.o" \
+"CMakeFiles/JustCollecte.dir/src/ressources/Trees/Pine.cpp.o" \
+"CMakeFiles/JustCollecte.dir/src/npc/Unit.cpp.o"
 
 # External object files for target JustCollecte
 JustCollecte_EXTERNAL_OBJECTS =
 
 JustCollecte: CMakeFiles/JustCollecte.dir/main.cpp.o
-JustCollecte: CMakeFiles/JustCollecte.dir/src/Ressource.cpp.o
-JustCollecte: CMakeFiles/JustCollecte.dir/src/Tree.cpp.o
-JustCollecte: CMakeFiles/JustCollecte.dir/src/Citizen.cpp.o
-JustCollecte: CMakeFiles/JustCollecte.dir/src/Olk.cpp.o
-JustCollecte: CMakeFiles/JustCollecte.dir/src/Ores.cpp.o
-JustCollecte: CMakeFiles/JustCollecte.dir/src/Pine.cpp.o
-JustCollecte: CMakeFiles/JustCollecte.dir/src/Unit.cpp.o
+JustCollecte: CMakeFiles/JustCollecte.dir/src/ressources/Ressource.cpp.o
+JustCollecte: CMakeFiles/JustCollecte.dir/src/ressources/Trees/Tree.cpp.o
+JustCollecte: CMakeFiles/JustCollecte.dir/src/npc/Citizen.cpp.o
+JustCollecte: CMakeFiles/JustCollecte.dir/src/ressources/Trees/Olk.cpp.o
+JustCollecte: CMakeFiles/JustCollecte.dir/src/ressources/ores/Ores.cpp.o
+JustCollecte: CMakeFiles/JustCollecte.dir/src/ressources/Trees/Pine.cpp.o
+JustCollecte: CMakeFiles/JustCollecte.dir/src/npc/Unit.cpp.o
 JustCollecte: CMakeFiles/JustCollecte.dir/build.make
 JustCollecte: /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.6.1
 JustCollecte: /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.6.1

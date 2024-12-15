@@ -50,7 +50,7 @@ int main()
     std::vector<std::shared_ptr<Citizen>> citizens = {
         std::make_shared<Citizen>("Youcef", 50, 50, 100, 10, 5, 2, 50),
         std::make_shared<Citizen>("Rudolf", 50, 5, 100, 10, 5, 2, 50),
-        std::make_shared<Citizen>("King", 150, 58, 100, 10, 5, 2, 50)
+        std::make_shared<Citizen>("King", 600,258, 100, 10, 5, 2, 50)
     };
 
     Olk olkResource("Olk", 2000, 3.5, 400, 300);
